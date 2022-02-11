@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Ammagamma Project.iml" filepath="$PROJECT_DIR$/.idea/Ammagamma Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MulticlassClassificationProblem.iml" filepath="$PROJECT_DIR$/.idea/MulticlassClassificationProblem.iml" />
     </modules>
   </component>
 </project>
